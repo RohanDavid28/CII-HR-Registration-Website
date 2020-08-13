@@ -1,0 +1,13 @@
+FIRST NAME 			=f_name
+LAST NAME 			=l_name
+GENDER 				= gender
+DATE OF BIRTH 		=dob
+EMAIL 				= email
+CONTACT NUMBER 		=contact_number
+HIGHEST DEGREE 		= highest_degree
+DESIGNATION 		= designation
+CURRENT WORKING COMPANY =cw_company
+YEARS OF EXPERIENCE 	=yo_experience
+ADDRESS 				=address
+CITY 					=city
+ZIP CODE 				=zip_code
